@@ -1,3 +1,3 @@
 # Add your variables here
 
-firstNumber = 10 
+first_number = 10 
